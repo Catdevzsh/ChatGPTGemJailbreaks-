@@ -1,0 +1,2 @@
+# ChatGPTGemJailbreaks-
+For interesting experiments 
